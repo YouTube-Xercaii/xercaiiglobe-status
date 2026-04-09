@@ -6,7 +6,7 @@ This repo has **no application code** — only **[GitHub Releases](https://githu
 ## Who this is for
 
 - **Players / developers** on the site: during deploys or outages, the **“Server is restarting”** screen can load updates from here even when Render is unavailable.
-- **You (operator):** post a release in a minute — no need for the main API or web app to be up.
+- **Xercaii/Isaiah (operator):** post a release in a minute — no need for the main API or web app to be up.
 
 ## How to post an update
 
